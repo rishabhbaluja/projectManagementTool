@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import com.rishabh.pmt.domain.Backlog;
 import com.rishabh.pmt.domain.Project;
 import com.rishabh.pmt.services.ErrorValidationService;
 import com.rishabh.pmt.services.ProjectService;
